@@ -48,6 +48,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last.edited.regexp" value="Sample Text" />
@@ -120,10 +121,18 @@
       <screen x="0" y="0" width="1825" height="987" />
     </state>
     <state x="1133" y="135" key="#com.intellij.ide.util.MemberChooser/0.0.1825.987@0.0.1825.987" timestamp="1578643957649" />
+    <state x="348" y="0" key="CommitChangelistDialog2" timestamp="1578648871899">
+      <screen x="0" y="0" width="1825" height="987" />
+    </state>
+    <state x="348" y="0" key="CommitChangelistDialog2/0.0.1825.987@0.0.1825.987" timestamp="1578648871899" />
     <state x="642" y="175" key="FileChooserDialogImpl" timestamp="1578648811229">
       <screen x="0" y="0" width="1825" height="987" />
     </state>
     <state x="642" y="175" key="FileChooserDialogImpl/0.0.1825.987@0.0.1825.987" timestamp="1578648811229" />
+    <state x="711" y="383" width="431" height="219" key="Github.CreateGistDialog" timestamp="1578648906621">
+      <screen x="0" y="0" width="1825" height="987" />
+    </state>
+    <state x="711" y="383" width="431" height="219" key="Github.CreateGistDialog/0.0.1825.987@0.0.1825.987" timestamp="1578648906621" />
     <state width="855" height="492" key="GridCell.Tab.0.bottom" timestamp="1578648777277">
       <screen x="0" y="0" width="1825" height="987" />
     </state>
